@@ -1,0 +1,17 @@
+git init - Iniciar repositorio
+git add - Adiciona
+git commit -m "fazer commit" - Faz commit
+git log - visualiza os commits realizados
+git status - informa estado atual e alterações 
+git show - Apresenta um ponto indicado na linha do tempo, aprensentando o ultimo commit realizado, ou colocar git show hash do commit, mas só serve para commits realizados em uma branch
+git branch - Gerencia os "caminhos", sendo main o principal, e você pode criar outros
+git checkout - navega entre os caminhos que você criou
+git Branch -D nome da branch - Para deletar o caminho
+git merge - une os caminhos criados
+git push - envia os commits para o repositório 
+git clone link do repositório - você baixa a pasta do repositório
+git checkout -b nome do caminho - Cria uma branch (caminho) novo e já se move para ele
+git commit -am "nome do commit" - Faz o commit, já adicionando todos os itens da pasta, sem a necessidade de executar o git add
+git pull - Atualiza seu repositorio local a partir do repositorio remoto
+git push --set-upstream origin nome do caminho - Resolve possiveis conflitos em um repositorio origin
+
