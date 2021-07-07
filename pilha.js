@@ -60,3 +60,6 @@ console.log("Desempilhando tudo....");
 while (!estaVazia()) {
   console.log(pop());
 }
+
+//Vetores ou Arrays, são termos intercambiáveis, basicamente a mesma coisa
+//No Array, o Ultimo a entrar é o primeiro a sair, mesma logica do UEPS do controle de estoque.
